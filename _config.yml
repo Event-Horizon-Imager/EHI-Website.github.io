@@ -8,42 +8,5 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: Event Horizon Imager
 description: The website of the Event Horizon Imager project, and associated initiatives.
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-footer-links:
-  dribbble: 
-  email: 
-  facebook: 
-  flickr: 
-  github: barryclark/jekyll-now
-  instagram: 
-  linkedin: 
-  pinterest: 
-  rss: 
-  twitter: jekyllrb
-  stackoverflow: 
-  youtube: 
-  googleplus: 
-disqus: 
-google_analytics: 
-url: 
-baseurl: 
-permalink: "/:title/"
-version: v1.2.0
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: highlight
-sass:
-  style: expanded
-gems:
-- jekyll-sitemap
-- jekyll-feed
-exclude:
-- Gemfile
-- Gemfile.lock
-- LICENSE
-- README.md
-- CNAME
+url: https://event-horizon-imager.github.io/EHI-Website.github.io/
