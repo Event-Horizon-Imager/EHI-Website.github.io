@@ -1,0 +1,6 @@
+---
+title: Test post
+date: 2025-02-12 17:25:00 Z
+---
+
+A test post made using Siteleaf CMS.
